@@ -1,2 +1,2 @@
 # hello-world-demo
-Just a demo
+Just a demo for study !!!
